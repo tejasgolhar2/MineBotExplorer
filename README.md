@@ -31,7 +31,7 @@ live camera stream transmission capabilities.
 
 - Project Video Description
 
-    <https://github.com/tejasgolhar2/MineBotExplorer/blob/c8297769d06af1181582673cca82754c01ac747a/v%201.0/project_documentation/reference_video/project_demo.mp4>
+    ![Video Description](https://github.com/tejasgolhar2/MineBotExplorer/blob/c8297769d06af1181582673cca82754c01ac747a/v%201.0/project_documentation/reference_video/project_demo.mp4)
 
 ## Getting Started
 
