@@ -23,11 +23,11 @@ live camera stream transmission capabilities.
 
 - Top View
 
-    <https://github.com/Tushar1805/recruit_me/assets/78633485/f2e248a1-f712-4f9e-a783-40589eb6c55a>
+    ![TOP VIEW](https://github.com/tejasgolhar2/MineBotExplorer/blob/13ac411485494eca9726d3d6b92330ac7cc0175d/v%201.0/project_documentation/reference_images/Top%20view.jpg)
 
 - Side View
 
-    <https://github.com/Tushar1805/recruit_me/assets/78633485/03300ae2-afc2-43bf-b968-1f371e6ac2a6>
+    ![SIDE VIEW](https://github.com/tejasgolhar2/MineBotExplorer/blob/13ac411485494eca9726d3d6b92330ac7cc0175d/v%201.0/project_documentation/reference_images/MineBot.jpg)
 
 - Video demonstrating the flow of the app
 
